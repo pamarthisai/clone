@@ -15,7 +15,7 @@ const defaultConstraints = {
 const configuration = {
   iceServers: [
     {
-      urls: "turn:openrelay.metered.ca:80",
+      urls: "https://www.metered.ca/tools/openrelay/",
     },
   ],
 };
