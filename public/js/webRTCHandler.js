@@ -15,7 +15,7 @@ const defaultConstraints = {
 const configuration = {
   iceServers: [
     {
-      urls: "stun:stun.l.google.com:13902",
+      urls: "turn:my-turn-server.mycompany.com:19403",
     },
   ],
 };
